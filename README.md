@@ -1,6 +1,14 @@
 # awesome-experiment-tracking
 Curated list of available experiment tracking frameworks.
 
+## State of Things
+
+An indicator of the popularity of tools for tracking and managing machine learning experiments (<a href="https://gradientflow.com/experiment-tracking-and-experiment-management-tools/">Source</a>):
+
+<img src="https://raw.githubusercontent.com/roma-glushko/awesome-experiment-tracking/main/img/exp-tracking-tool-popularity.jpg" alt="Popularity of Experiment Trackers" />
+
+## Projects
+
 - [Aim](https://aimstack.io/) - logs your training runs, enables a beautiful UI to compare them and an API to query them programmatically
 - [Sacred](https://github.com/IDSIA/sacred/) - configure, organize, log and reproduce experiments
 - [Kedro](https://github.com/kedro-org/kedro) - open-source Python framework for creating reproducible, maintainable and modular data science code based on software engineering principles like modularity, separation of concerns and versioning

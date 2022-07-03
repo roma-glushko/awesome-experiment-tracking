@@ -1,5 +1,5 @@
 # awesome-experiment-tracking
-Curated list of available experiment tracking frameworks 
+Curated list of available experiment tracking frameworks.
 
 - [Aim](https://aimstack.io/) - logs your training runs, enables a beautiful UI to compare them and an API to query them programmatically
 - [Sacred](https://github.com/IDSIA/sacred/) - configure, organize, log and reproduce experiments
